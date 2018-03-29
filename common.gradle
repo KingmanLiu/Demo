@@ -1,0 +1,49 @@
+
+project.ext {
+    javaVersion = 7
+    javaMaxHeapSize = '4G'
+
+    compileSdkVersion = 23
+    buildToolsVersion = "23.0.1"
+    minSdkVersion = 17
+    targetSdkVersion = 22
+
+    applicationId='com.skyyhu'
+
+
+    minifyEnable = false
+    shrinkResEnable = minifyEnable
+
+    enableBuildNative = false
+    enableBuildReact = true
+    installAfterBuild = false
+
+    sourceCompatibility = this.&getJavaVersion()
+    targetCompatibility = this.&getJavaVersion()
+    /**
+     *  true 为生产环境，false为测试环境
+     *  服务器打包时会根据配置自动修改
+     */
+    Config_RELEASE = false
+    Config_ENV_PRD = false
+    Config_REACT_DEBUG = true
+    Config_LOG_ENABLE = false
+
+}
+
+
+
+def getJavaVersion() {
+    switch (project.ext.javaVersion) {
+        case "6":
+            return JavaVersion.VERSION_1_6
+        case "7":
+            return JavaVersion.VERSION_1_7
+        case "8":
+            return JavaVersion.VERSION_1_8
+        case "9":
+            return JavaVersion.VERSION_1_9
+        default:
+            return JavaVersion.VERSION_1_6
+    }
+}

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_401104a35fe3493e97aae24664487cf4e3e497fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/okio-1.9.0_d7e4ea42e95b3dacfa54e93c3f5d20fd591a36f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ce478946caf7789e5c617b9b7a8290cf8b863fa">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_a8c6fe67709a67ce45aab869bdb06bf685fdfb83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_fb46cadbacefcdb9d77407da88efd4ba75089dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_2cc556e11c9bea6fd383a627fb87e93938f28710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_d3ac996744e15d622be9b52fb21d41d476414a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_290e4615f5689461f1dbb036ccd951951584d577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_f3665c77b076c29cc9e44c5c3cc3d803f79ce2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_c89c26b79d37bc23b8601650434d0e56c868b9fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/javax.inject-1_005935cf0bb9287b98ab6e59173b40f2ab6af1a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_042bca5158b58577c1f51c8f5d971cc3cbdecd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0e0236ec3443c464113c3b0ec7a87c97c74f1214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_c6bc5e67633daf0dffa490898db161d64c5d403a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac7d1eaeecd12d434a64174bd460db21e708813a">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.38.0_b6865a60ad4362286c86f41f53e18f85d36edb9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/library-2.4.0_f92a2e8919dd761c3dbfc19f0d79c58d30137aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_e9383469f549c29bf7f3d13930297fc37cf95b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_e2ea755455e300fe4a99a51262d89c060636dc8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_453364bd63a7a07849a9f5e3118159aadca87670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f09f8e4bde8953806697f380cdf3f8b10442a839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d33ac339e26de1e3577e4e66e82faff8076c605a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_8d6fe6c3a7735aab85b0caf9702d3931a8b8e1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_aa97589b3f936fb1bd4243df617b6411b4118cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kingman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/Kingman/Documents/Src/Android/demo/ReactNativeApp/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_c476d2ab637a2fbca53d276e456a8a18453253c5.jar" />
+    </item>
+
+</items>

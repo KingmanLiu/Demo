@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+apply from: "${project.rootDir}/common.gradle"
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '24.0.3'
+    defaultConfig {
+        applicationId project.ext.applicationId;
+        minSdkVersion project.ext.minSdkVersion
+        targetSdkVersion project.ext.targetSdkVersion
+        versionCode 1011
+        versionName '1.0'
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    // compile "com.facebook.react:react-native:0.17.+"
+    compile 'com.facebook.react:react-native:+'
+    // From node_modules
+}
